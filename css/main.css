@@ -1110,7 +1110,7 @@ pre .javascript .function {
 .github-corner svg {
   border: 0;
   color: #fff;
-  fill: #222;
+  fill: #87daff;
   position: absolute;
   right: 0;
   top: 0;
@@ -1236,7 +1236,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #706636;
+  background: #6fedff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2307,7 +2307,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .site-brand-container {
-  background: #222;
+  background: #87daff;
 }
 @media (max-width: 991px) {
   .site-brand-container {
